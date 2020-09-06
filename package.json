@@ -1,0 +1,26 @@
+{
+  "name": "tetramasterjs",
+  "version": "1.0.0",
+  "description": "TetraMaster JS juego de cartas de FFIX",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vmejiaec/TetraMasterJS.git"
+  },
+  "keywords": [
+    "TetraMaster",
+    "juego de cartas FFIX"
+  ],
+  "author": "Victor Mejia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vmejiaec/TetraMasterJS/issues"
+  },
+  "homepage": "https://github.com/vmejiaec/TetraMasterJS#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
